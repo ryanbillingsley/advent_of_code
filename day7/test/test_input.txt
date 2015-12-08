@@ -1,0 +1,3 @@
+0 -> f
+f LSHIFT 1 -> d
+NOT d -> c
